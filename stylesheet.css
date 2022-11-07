@@ -17,16 +17,11 @@ h2 {
 
 .recipe-container {
     display: flex;
-}
-
-.recipe-container div {
-    flex: 1 1 30%;
+    gap: 20px;
 }
 
 .recipe-ingredients {
-    
-}
-
-.recipe-directions {
-
+    background-color: #0c0c0c;
+    padding-left: 5px;
+    border-radius: 20px;
 }
