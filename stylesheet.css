@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin: 50px;    
+}
+
+h1 {
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+h2 {
+    font-style: oblique;
+    text-decoration: underline;
+}
